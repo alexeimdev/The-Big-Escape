@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/btn1_main_menu"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_x="0dp"
+        android:layout_y="5dp"
+        android:text="Continue" />
+
+    <Button
+        android:id="@+id/btn2_main_menu"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_x="0dp"
+        android:layout_y="55dp"
+        android:text="Replay" />
+
+    <Button
+        android:id="@+id/btn3_main_menu"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_x="0dp"
+        android:layout_y="106dp"
+        android:text="Level Select" />
+
+    <Button
+        android:id="@+id/btn4_main_menu"
+        android:layout_width="220dp"
+        android:layout_height="match_parent"
+        android:layout_x="0dp"
+        android:layout_y="158dp"
+        android:text="Help" />
+
+</AbsoluteLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InlinedApi" severity="ignore" />
+    <issue id="NewApi">
+        <ignore path="src/com/example/thebigescape/MainActivity.java" />
+        <ignore path="src/com/example/thebigescape/MenuActivity.java" />
+    </issue>
+    <issue id="SpUsage" severity="ignore" />
+</lint>

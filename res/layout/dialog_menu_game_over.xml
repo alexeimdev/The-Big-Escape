@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <Button
+        android:id="@+id/btn1_game_over"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_x="0dp"
+        android:layout_y="5dp"
+        android:text="Replay" />
+
+    <Button
+        android:id="@+id/btn2_game_over"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_x="0dp"
+        android:layout_y="85dp"
+        android:text="Select Level" />
+
+</AbsoluteLayout>
